@@ -1,6 +1,17 @@
-# This team hasn't started yet...
+# Introduction
+  <br>this is an introduction ...
+  <br>
+  <br>
 
-Check back later!
 
-**Please read `tasks.md` to start your work.**
- 
+# Code
+  <br> write the code
+  <br>
+  <br>
+
+
+
+# Contributors
+  <br> 1155136405 Chow Ka Po
+  <br> 1155....
+  <br>
