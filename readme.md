@@ -1,5 +1,6 @@
 # Introduction
 This repo is a trial for student who take CSCI3251 to familiar the workflow of a project.\
+  
 First, the project manager(teammate 1) will setup the issue and check their progress time to time.\
 Secondly, project manager(teammate 2) manage all the issue to project board as "To do" or something else.\
 Then, Documentation manager(teammate 3) will write the readme.md to briefly introduce our project.\
