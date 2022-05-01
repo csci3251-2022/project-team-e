@@ -11,7 +11,10 @@ Furthermore, Personnel manager(teammate 6) will setup the showcase for all of ou
 Finally, Promotion manager(teammate 7) will deploy the repo webpage(.io) to public for us.
 
 # Code
-
+{% highlight c %}
+{% include_relative code.c %}
+{% endhighlight %}\
+![example workflow](https://github.com/csci3251-2022/project-team-e/actions/workflows/main.yml/badge.svg)
 
 # Contributors
  
