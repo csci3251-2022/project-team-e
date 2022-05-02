@@ -17,4 +17,8 @@ Finally, Promotion manager(teammate 7) will deploy the repo webpage(.io) to publ
 ![example workflow](https://github.com/csci3251-2022/project-team-e/actions/workflows/main.yml/badge.svg)
 
 # Contributors
+{% for p in site.stu %}
+  ![image]({{p.image}}) {{p.user}} {{p.name}}
+  <p>{{ p.content | markdownify }}</p>
+{% endfor %}
  
